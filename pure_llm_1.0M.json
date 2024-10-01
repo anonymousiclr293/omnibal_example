@@ -1,0 +1,5 @@
+{
+    "llm_example": {
+        "token_lengths": "./data/llm/llm_train_example.json"
+    }
+}
